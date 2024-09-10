@@ -1,11 +1,15 @@
-- 👋 hi! im blue :P
-- 👀 im interested in... idk actually
-- 🌱 im currently learning NOTHING!!🎉🎉🎉
-- 💞️ im looking to get my grades up cuz thats why im here :3
-- 📫 wanna contact me? uhhh disc is bluecomedia
-- 😄 Pronouns: he and him...
-- ⚡ fun fact: i currently have 3 bodies burried about 453 meters away from my frontyard! :D
+### Boas vindas ao meu perfil :blue_heart
 
+Meu nome é Marcelo Paludetto
 
-PLAY BOWSER'S INSIDE STORY ITS ABSOLUTELY PEAK.
-![bowsr](https://tenor.com/pt-BR/view/bowser-mario-and-luigi-reading-book-read-gif-13971250)
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo :mailbox
+
+paludettomarcelo@gmail.com
+
+@marcelopaludetto
+
+![descrição do GIF]([https://tenor.com/pt-BR/view/paper-mario-paper-mario-ttyd-ttyd-super-paper-mario-mario-gif-12074506497819363565](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTF1cmY5ZmpyazJ3cTFtNHhxcGhzdnhpdGlpM2R6emo4YzF1YWpqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mlvseq9yvZhba/giphy.gif))
